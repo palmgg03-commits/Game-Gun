@@ -1,0 +1,103 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Unity\\FPJ 3 K\\Make Game Gun\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{67626930-3C39-89E1-EFED-18E13BF96E24}|Assembly-CSharp.csproj|e:\\unity\\fpj 3 k\\make game gun\\assets\\code\\zombie\\emai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67626930-3C39-89E1-EFED-18E13BF96E24}|Assembly-CSharp.csproj|solutionrelative:assets\\code\\zombie\\emai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67626930-3C39-89E1-EFED-18E13BF96E24}|Assembly-CSharp.csproj|E:\\Unity\\FPJ 3 K\\Make Game Gun\\assets\\code\\zombie\\emdataso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67626930-3C39-89E1-EFED-18E13BF96E24}|Assembly-CSharp.csproj|solutionrelative:assets\\code\\zombie\\emdataso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67626930-3C39-89E1-EFED-18E13BF96E24}|Assembly-CSharp.csproj|e:\\unity\\fpj 3 k\\make game gun\\assets\\code\\zombie\\embase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67626930-3C39-89E1-EFED-18E13BF96E24}|Assembly-CSharp.csproj|solutionrelative:assets\\code\\zombie\\embase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67626930-3C39-89E1-EFED-18E13BF96E24}|Assembly-CSharp.csproj|E:\\Unity\\FPJ 3 K\\Make Game Gun\\assets\\code\\zombie\\imovable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67626930-3C39-89E1-EFED-18E13BF96E24}|Assembly-CSharp.csproj|solutionrelative:assets\\code\\zombie\\imovable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67626930-3C39-89E1-EFED-18E13BF96E24}|Assembly-CSharp.csproj|E:\\Unity\\FPJ 3 K\\Make Game Gun\\assets\\code\\enemyfollow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67626930-3C39-89E1-EFED-18E13BF96E24}|Assembly-CSharp.csproj|solutionrelative:assets\\code\\enemyfollow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EmAI.cs",
+              "DocumentMoniker": "E:\\Unity\\FPJ 3 K\\Make Game Gun\\Assets\\code\\Zombie\\EmAI.cs",
+              "RelativeDocumentMoniker": "Assets\\code\\Zombie\\EmAI.cs",
+              "ToolTip": "E:\\Unity\\FPJ 3 K\\Make Game Gun\\Assets\\code\\Zombie\\EmAI.cs",
+              "RelativeToolTip": "Assets\\code\\Zombie\\EmAI.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAuwJoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-27T14:13:37.824Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EmBase.cs",
+              "DocumentMoniker": "E:\\Unity\\FPJ 3 K\\Make Game Gun\\Assets\\code\\Zombie\\EmBase.cs",
+              "RelativeDocumentMoniker": "Assets\\code\\Zombie\\EmBase.cs",
+              "ToolTip": "E:\\Unity\\FPJ 3 K\\Make Game Gun\\Assets\\code\\Zombie\\EmBase.cs",
+              "RelativeToolTip": "Assets\\code\\Zombie\\EmBase.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAwwDUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-27T14:12:36.333Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EmDataSO.cs",
+              "DocumentMoniker": "E:\\Unity\\FPJ 3 K\\Make Game Gun\\Assets\\code\\Zombie\\EmDataSO.cs",
+              "RelativeDocumentMoniker": "Assets\\code\\Zombie\\EmDataSO.cs",
+              "ToolTip": "E:\\Unity\\FPJ 3 K\\Make Game Gun\\Assets\\code\\Zombie\\EmDataSO.cs",
+              "RelativeToolTip": "Assets\\code\\Zombie\\EmDataSO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-27T14:11:21.66Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IMovable.cs",
+              "DocumentMoniker": "E:\\Unity\\FPJ 3 K\\Make Game Gun\\Assets\\code\\Zombie\\IMovable.cs",
+              "RelativeDocumentMoniker": "Assets\\code\\Zombie\\IMovable.cs",
+              "ToolTip": "E:\\Unity\\FPJ 3 K\\Make Game Gun\\Assets\\code\\Zombie\\IMovable.cs",
+              "RelativeToolTip": "Assets\\code\\Zombie\\IMovable.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-27T14:10:35.745Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EnemyFollow.cs",
+              "DocumentMoniker": "E:\\Unity\\FPJ 3 K\\Make Game Gun\\Assets\\code\\EnemyFollow.cs",
+              "RelativeDocumentMoniker": "Assets\\code\\EnemyFollow.cs",
+              "ToolTip": "E:\\Unity\\FPJ 3 K\\Make Game Gun\\Assets\\code\\EnemyFollow.cs",
+              "RelativeToolTip": "Assets\\code\\EnemyFollow.cs",
+              "ViewState": "AgIAAFoAAAAAAAAAAAAkwG4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-27T13:36:14.889Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
